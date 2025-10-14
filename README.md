@@ -1,6 +1,5 @@
 ### 🚀 Tech Stack & Tools
 
-Berikut adalah beberapa teknologi dan tools yang lagi gue dalamin:
 
 #### 💻 Web Development (Full-Stack)
 <p align="left"> 

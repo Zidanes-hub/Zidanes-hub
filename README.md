@@ -18,6 +18,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="mysql" width="60" height="60"/>
+  </a>
 </p>
 
 #### ⚙️ Systems & Cloud
@@ -27,6 +30,9 @@
   </a> 
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="60" height="60"/> 
+  </a>
+  <a href="https://www.python.org"/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="googlecloud" width="60" height="60"/> 
   </a> 
 </p>
 

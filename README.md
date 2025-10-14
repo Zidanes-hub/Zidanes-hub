@@ -1,4 +1,4 @@
-### 🚀 Tech Stack Utama Gue:
+### 🚀 Tech Stack :
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
@@ -16,4 +16,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> 
   </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt= "c++" width="80" height="80"/>
+          
+  
+
+          
 </p>

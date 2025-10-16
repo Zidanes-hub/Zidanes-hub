@@ -36,9 +36,3 @@
   </a> 
 </p>
 
-#### 🎨 Design
-<p align="left"> 
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="60" height="60"/> 
-  </a> 
-</p>

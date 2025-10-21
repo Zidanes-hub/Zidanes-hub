@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/zidanes-hub/zidanes-hub/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2ljNG11cGkxcDV4MGs4cGg2ZHlpdnR5OXRmZ25tdnk3NTNsNDl0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MNprNJEYONFQI/giphy.gif"  />
+</div>
 ---
 
 <p align="center">

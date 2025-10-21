@@ -3,9 +3,9 @@
 <p align="left">
   Welcome to my Profile Zidane Surya Nugraha
 </p>
-<h4 align ="left">
+<h3 align ="left">
   Mahasiswa Teknologi Computer yang memegang prinsip "Ngopi dulu baru ngoding bolo"
-</h4>
+</h3>
 </div>
 
 ---

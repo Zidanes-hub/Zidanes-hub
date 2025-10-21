@@ -1,9 +1,10 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlJzNsyz5vS/giphy.gif" width="90" height="90" alt="sparkle" style="vertical-align: middle;">
-  <h1 style="display: inline-block; margin: 0 10px; font-size: 5em;">Zidane Surya Nugraha</h1>
-  <img src="https://media.giphy.com/media/l0HlJzNsyz5vS/giphy.gif" width="90" height="90" alt="sparkle" style="vertical-align: middle;">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidanes-hub/zidanes-hub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidanes-hub/zidanes-hub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zidanes-hub/zidanes-hub/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 ---
 
 <p align="center">

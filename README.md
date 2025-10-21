@@ -3,10 +3,12 @@
 </div>
 ---
 
-<p align="center">
-  Hai semuanya! Selamat datang di profil GitHub saya.
-  Saya seorang mahasiswa ilmu komputer yang bersemangat dalam pengembangan C++ dan sistem tertanam (Arduino).
+<p align="left">
+  Welcome to my Profile Zidane Surya Nugraha
+  Mahasiswa Computer Technology 
 </p>
+
+## KOPAG DULU BARU NGODING
 
 ---
 

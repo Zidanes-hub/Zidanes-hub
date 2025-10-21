@@ -1,5 +1,5 @@
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmFlaDhweXdmZGljNGc3NnBmZTExZmh3azFieHN6aGF6cWQwZ211dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5qcnRWFWfZyXC/giphy.gif"  />
+<div align="left">
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmFlaDhweXdmZGljNGc3NnBmZTExZmh3azFieHN6aGF6cWQwZ211dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5qcnRWFWfZyXC/giphy.gif"  />
 <p align="left">
   Welcome to my Profile Zidane Surya Nugraha
   Mahasiswa Computer Technology 

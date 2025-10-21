@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlJzNsyz5vS/giphy.gif" width="30" height="30" alt="sparkle" style="vertical-align: middle;">
-  <h1 style="display: inline-block; margin: 0 10px; font-size: 3em;">Zidanes Bintang</h1>
-  <img src="https://media.giphy.com/media/l0HlJzNsyz5vS/giphy.gif" width="30" height="30" alt="sparkle" style="vertical-align: middle;">
+  <img src="https://media.giphy.com/media/l0HlJzNsyz5vS/giphy.gif" width="90" height="90" alt="sparkle" style="vertical-align: middle;">
+  <h1 style="display: inline-block; margin: 0 10px; font-size: 5em;">Zidane Surya Nugraha</h1>
+  <img src="https://media.giphy.com/media/l0HlJzNsyz5vS/giphy.gif" width="90" height="90" alt="sparkle" style="vertical-align: middle;">
 </div>
 
 ---

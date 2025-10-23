@@ -3,9 +3,9 @@
 <p align="left">
   Welcome to my Profile Zidane Surya Nugraha
 </p>
-<h3 align ="left">
-  Gabisa Ngoding Aku bang"
-</h3>
+<h2 align ="left">
+  Gabisa Ngoding Aku bang
+</h2>
 </div>
 
 ---

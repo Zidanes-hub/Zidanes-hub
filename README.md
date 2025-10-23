@@ -4,7 +4,7 @@
   Welcome to my Profile Zidane Surya Nugraha
 </p>
 <h3 align ="left">
-  Mahasiswa Teknologi Computer yang memegang prinsip "Ngopi dulu baru ngoding bolo"
+  Gabisa Ngoding Aku bang"
 </h3>
 </div>
 

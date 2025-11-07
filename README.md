@@ -31,8 +31,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="vertical-align: middle; margin-left: 8px; margin-right: 8px;"/> 
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="60" height="60" style="vertical-align: middle; margin-left: 8px; margin-right: 8px;"/> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="react" width="60" height="60" style="vertical-align: middle; margin-left: 8px; margin-right: 8px;"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="vertical-align: middle; margin-left: 8px; margin-right: 8px;"/> 
@@ -42,6 +42,10 @@
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="streamlit" width="60" height="60" style="vertical-align: middle; margin-left: 8px; margin-right: 8px;"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="60" height="60" style="vertical-align: middle; margin-left: 8px; margin-right: 8px;" />
+  </a> 
 </p>
 
 #### Hardware Tech
